@@ -4,7 +4,8 @@ authors:
 - Firman Sauqi
 - Fikli Perdana
 title: Perkenalan Mengenai Geostoria
-excerpt: ''
+excerpt: Mari kita berkenalan! Apa dan Siapakah Geostoria? Simak penjelasan berikut
+  ini.
 date: 2021-04-14T00:00:00.000+07:00
 hero: "/images/hero.jpg"
 
