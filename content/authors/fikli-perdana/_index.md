@@ -1,6 +1,6 @@
 ---
 title: Fikli Perdana
-bio: 'Geoturism activist, Kontributor Geostoria.
+bio: 'Penggiat Geoturisme, Kontributor Geostoria.
 
 '
 avatar: "/images/dennis-brotzky.jpg"
