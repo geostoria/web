@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/gempa-di-malang-selatan.md
 - content/post/perkenalan-mengenai-geostoria.md
