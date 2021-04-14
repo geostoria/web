@@ -14,4 +14,4 @@ hero: "/images/gempa.jpeg"
 ---
 Baru-baru ini terjadi gempa yang menghebohkan wilayah Jawa Timur. Gempa ini memiliki amplitudo yang cukup besar yakni 6.7 SR dengan epicenter di laut selatan Kabupaten Malang. Beikut ini perbincangan santai Geostoria mengenai gempa ini.
 
-[https://open.spotify.com/episode/7uaJBV8XwEbwIjKuyufFvb?si=qULkTiWGSpOjFHaGG1Ep0A](https://open.spotify.com/episode/7uaJBV8XwEbwIjKuyufFvb?si=qULkTiWGSpOjFHaGG1Ep0A "Podcast Gempa Bumi Malang Selatan.")
+[Podcast Gempa Malang Selatan.](https://open.spotify.com/episode/7uaJBV8XwEbwIjKuyufFvb?si=qULkTiWGSpOjFHaGG1Ep0A "Spotify")
