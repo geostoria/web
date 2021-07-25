@@ -1,4 +1,11 @@
 ---
 label: Our Team
 hide_body: true
-fields: []
+fields:
+- name: our_team
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Our Team
