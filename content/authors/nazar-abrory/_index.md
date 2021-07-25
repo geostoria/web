@@ -1,7 +1,9 @@
 ---
 title: Nazar Abrory
-bio: |
-  Geologist, Kontributor Geostoria.
-avatar: /images/nazar.jpg
+bio: 'Geologist of Geostoria.
+
+'
+avatar: "/images/nazar.jpg"
+featured: true
 
 ---
